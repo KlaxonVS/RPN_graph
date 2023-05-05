@@ -1,5 +1,5 @@
 # Definite Integral Graph Builder ver. 0.01)
-C project made as a part of second week of C study.
+C project made as a part of second week of study with usage of dynamic memory allocation, stack data structure, matrixes.
 
 ## Libaries:
 
