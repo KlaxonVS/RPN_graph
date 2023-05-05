@@ -28,6 +28,18 @@ C project made as a part of second week of study with usage of dynamic memory al
 > sqrt(x) \
 > ln(x)
 
+***Conditions:***
+
+The size of the field for displaying graphs is a rectangle of 25 by 80 points.
+
+Definition area - [0; 4 Pi]
+
+Range of values - [-1; 1]
+
+Orientation of the coordinate plane - the ordinate axis is directed downward, the abscissa axis is directed to the right.
+
+The center of coordinates is middle of the left border (point {0, 13}).
+
 ***Examples***:
 
 Input: `sin(sin(sin(sin(1/ln(x*x)))))`
