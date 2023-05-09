@@ -10,7 +10,7 @@ C project made as a part of second week of study with usage of dynamic memory al
 * <string.h>
 
 
-## To compile pong:
+## To compile:
 
 * Use GCC: `gcc -Wall -Werror -Wextra *.c -o graph.out -lm`
 * Use Makeile by simply: `make`
